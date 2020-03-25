@@ -1,0 +1,244 @@
+.text-kevin{ 
+
+    color: #de7119 !important; 
+
+} 
+
+#textnav a { 
+
+    color: #1b262c; 
+
+} 
+
+#main .h1{ 
+
+    color:#de7119; 
+
+} 
+
+#main .carousel-inner img{ 
+
+    max-height: 70vh; 
+
+    object-fit: cover; 
+
+    filter: grayscale(70%); 
+
+} 
+
+ 
+ 
+
+#carousel{ 
+
+    position: relative; 
+
+} 
+
+ 
+ 
+
+#carousel .overlay{ 
+
+    position: absolute; 
+
+    top: 0; 
+
+    bottom: 0; 
+
+    left: 0; 
+
+    right: 0; 
+
+    background-color: rgba(0, 0, 0, 0.5); 
+
+    color: white; 
+
+ 
+ 
+
+} 
+
+.text{ 
+
+    color:#de7119; 
+
+    font-weight: bold; 
+
+     
+
+} 
+
+.text1{ 
+
+    color: white; 
+
+} 
+
+#carousel .overlay .container, 
+
+#carousel .overlay .row{ 
+
+    height: 100%; 
+
+} 
+
+#about-me img{ 
+
+    max-width: 100%; 
+
+    max-height: 100%; 
+
+    margin-top: 30px; 
+
+} 
+
+.container-fluid{ 
+
+    margin-top: 10px; 
+
+    background: ; 
+
+    color: black; 
+
+} 
+
+.container-fluid h2{ 
+
+    color: #de7119; 
+
+    text-align: center; 
+
+    margin-top: 30px; 
+
+    text-decoration: wavy; 
+
+    font-weight: bold; 
+
+} 
+
+.container-fluid p{ 
+
+    border: 2px solid #de7119; 
+
+    margin-top: 30px; 
+
+    justify-content: center; 
+
+    align-items: center; 
+
+    text-align: center; 
+
+    border-radius: 5px; 
+
+} 
+
+ 
+ 
+
+.btn-primary{ 
+
+    background-color: #de7119 ; 
+
+    border: 1px solid white; 
+
+    margin-left: auto; 
+
+    margin-bottom: auto; 
+
+} 
+
+.btn-primary:hover{ 
+
+    background-color: #d63447; 
+
+} 
+
+.btn-dark{ 
+
+    margin-left: 130px; 
+
+} 
+
+.btn-dark:hover{ 
+
+    background-color:#de7119; 
+
+} 
+
+#contacto{ 
+
+    background: #ee6f57; 
+
+} 
+
+#contacto a{ 
+
+    color: white; 
+
+    margin-left: 20px; 
+
+    text-align: center; 
+
+    font-size: 40px; 
+
+    font-weight: bold; 
+
+} 
+
+ 
+ 
+
+#footer .container-fluid{ 
+
+    background-color: #ee6f57; 
+
+    margin-top: 0px;     
+
+} 
+
+ 
+ 
+
+#ul .horizontal{ 
+
+    margin: 0; 
+
+    padding: 0; 
+
+} 
+
+ 
+ 
+
+#ul .horizontal li{ 
+
+    display: inline; 
+
+    float: left; 
+
+    padding: 0 10px; 
+
+} 
+
+#anexo{ 
+
+    background-color:#ee6f57 ; 
+
+} 
+
+#anexo a{ 
+
+    color: white; 
+
+    font-weight: bold; 
+
+} 
+
+#anexo p{ 
+
+    text-align: center; 
+
+} 
+
+
